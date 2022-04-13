@@ -1,0 +1,46 @@
+_repo: Jerry-Todd-and-the-Oak-Island-Treasure_67582
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Salg, Bert
+    birthdate: 1881
+    deathdate: 1938
+    gutenberg_agent_id: '45644'
+    url: http://www.gutenberg.org/2009/agents/45644
+creator:
+  author:
+    agent_name: Edwards, Leo
+    aliases:
+    - Lee, Edward Edson
+    - Forrester, Leo
+    birthdate: 1884
+    deathdate: 1944
+    gutenberg_agent_id: '54331'
+    url: http://www.gutenberg.org/2009/agents/54331
+description: ''
+gutenberg_issued: '2022-03-07'
+identifiers:
+  gutenberg: '67582'
+language: en
+pgterms:marc904: https://archive.org/details/jerrytoddoakisla00edwa/page/n7/mode/2up
+pgterms:marc905: 20210120114830edwards
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Produced by Jeroen Hellingman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net/ for Project Gutenberg (This file was produced from
+  images generously made available by The Internet Archive)
+publication_note: United States :Grosset & Dunlap,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Jerry Todd series, no. 3
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Showboats -- Juvenile fiction'
+- !lcsh 'Illinois -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Jerry Todd and the Oak Island Treasure
+url: http://www.gutenberg.org/ebooks/67582
